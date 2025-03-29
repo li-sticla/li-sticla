@@ -25,36 +25,6 @@
 
 ---
 
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/li-sticla/li-sticla/main/profile-summary-card-output/dark/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/li-sticla/li-sticla/main/profile-summary-card-output/dark/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/li-sticla/li-sticla/main/profile-summary-card-output/dark/3-stats.svg)
-```
-
-    
-
----
-
 ![](./4-productive-time.svg)
 
 ```
